@@ -2,7 +2,6 @@ TESTE DE BANCO DE DADOS E ANÁLISE
 
 # Sobre o projeto
 
-Este projeto foi desenvolvido como parte do Teste Técnico – IntuitiveCare (Etapa 3).
 O objetivo desta etapa é estruturar um modelo de banco de dados relacional e desenvolver queries analíticas a partir dos dados consolidados e transformados nas etapas anteriores.
 
 # O foco principal é demonstrar:
